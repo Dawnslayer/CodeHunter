@@ -1,0 +1,10 @@
+0:Exception
+1:IOException
+2:InterruptedException
+3:IllegalArgumentException
+4:SQLException
+5:NumberFormatException
+6:RuntimeException
+7:ClassNotFoundException
+8:AssertionError
+9:RemoteException

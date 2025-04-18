@@ -1,0 +1,1 @@
+Extract the data from the task2_data.zip file to the task2/data folder.

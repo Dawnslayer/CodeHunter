@@ -1,0 +1,1 @@
+Extract the data from the Neurex_data.zip file to the neurex/processed folder.
